@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int arr[]={12,34,56,78,90};
+    int arr[]={12,340,56,78,90};
     int n=5;
     int largest=-1;
     int secondlargest=-1;
