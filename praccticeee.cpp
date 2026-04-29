@@ -16,7 +16,8 @@ int main(){
                 cout<<col;
             }
             cout<<endl;
-         }
+
+        }
        
         
     }

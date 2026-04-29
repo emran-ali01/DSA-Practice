@@ -4,7 +4,7 @@ int main(){
     int n;
     cin>>n;
     for(int row=0;row<n;row++){
-        //sapces
+        //spces
         for(int col=0;col<n-row-1;col++){
             cout<<" ";
         }
